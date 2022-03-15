@@ -4,7 +4,7 @@ CLASIFICACIÓN DE PECES DE MAR POR MEDIO DE DNN Y CNN
 
 ##BANNER
 
-AUTORES: William David Romero, 
+AUTORES: William David Romero, Carlos Alberto Palencia Pombo
 
 Objetivo: 
 Evaluar el rendimiento de los diferentes parámetros propios de las redes convolucionales en la clasificación de peces.
