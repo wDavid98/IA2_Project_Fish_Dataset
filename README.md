@@ -2,7 +2,7 @@
 Artificial Inteligence II Project.
 CLASIFICACIÓN DE PECES DE MAR POR MEDIO DE DNN Y CNN
 
-![banner](https://raw.githubusercontent.com/wDavid98/Banner.png)
+![banner](https://raw.githubusercontent.com/wDavid98/banner.png)
 
 
 AUTORES: William David Romero, Carlos Alberto Palencia Pombo, Hernando José Rojas
@@ -19,4 +19,4 @@ https://www.kaggle.com/dataset/3edc5a44084ff30d4045620abd6fb7843bee344f3bc3a6c3e
 Modelos:
 Redes Densas, Redes Convolucionales, Data augmentation ,transfer learning, autoencoder
 
-Link del video:
+Link del video: https://youtu.be/4w7UiC_lAHI
