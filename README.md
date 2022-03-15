@@ -2,6 +2,7 @@
 Artificial Inteligence II Project.
 CLASIFICACIÓN DE PECES DE MAR POR MEDIO DE DNN Y CNN
 
+![banner](https://raw.githubusercontent.com/wDavid98/Blue and Pink Modern Tech Electronics and Technology Retractable Exhibition Banner.png)
 
 
 AUTORES: William David Romero, Carlos Alberto Palencia Pombo, Hernando José Rojas
